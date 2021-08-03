@@ -1,0 +1,13 @@
+$primarybutton:rgb(110, 172, 177);
+$text:white;
+header{
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    background: $primarybutton;
+    color: $text;
+
+}
