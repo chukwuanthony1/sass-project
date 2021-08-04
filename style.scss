@@ -1,5 +1,5 @@
-$primarybutton:rgb(110, 172, 177);
-$text:yellow;
+$primarybutton:hsl(184, 36%, 74%);
+$textcolor: white;
 header{
     background: lightblue;
     display: flex;
@@ -8,6 +8,6 @@ header{
 
 button{
     background: $primarybutton;
-    color: $text;
+    color: $textcolor;
 
 }
